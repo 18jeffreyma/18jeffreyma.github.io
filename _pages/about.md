@@ -39,7 +39,7 @@ based on a patient’s accuracy in emotional recognition and level of facial eng
 
 Work Experience
 ------
-I've interned at Google Brain as a Software Engineer on the
+I've previously interned at Google Brain as a Software Engineering Intern on the
 [TensorFlow Extended](https://www.tensorflow.org/tfx) team, working on an
 end-to-end platform to automatically train and deploy ML models in production.
 

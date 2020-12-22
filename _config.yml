@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Jeffrey J. Ma"
 title_separator          : "-"
 name                     : &name "Jeffrey Ma"
-description              : &description "personal description"
+description              : &description "Personal website for Jeffrey J. Ma"
 url                      : https://18jeffreyma.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "18jeffreyma/18jeffreyma.github.io"
@@ -82,8 +82,8 @@ analytics:
 author:
   name             : "Jeffrey J. Ma"
   avatar           : "JeffreyMa_Headshot.jpg"
-  bio              : "Computer Science and Finance Undergraduate"
-  location         : "San Jose, CA"
+  bio              : "Computer Science and Business Finance Undergraduate"
+  location         :
   employer         : California Institute of Technology
   pubmed           :
   googlescholar    : "https://scholar.google.com/citations?user=IemYiGEAAAAJ&hl=en"
@@ -181,10 +181,10 @@ collections:
   publications:
     output: true
     permalink: /:collection/:path/
-  work_exp:
+  portfolio:
     output: true
     permalink: /:collection/:path/
-  # portfolio:
+  # work_exp:
   #   output: true
   #   permalink: /:collection/:path/
   # talks:
@@ -195,17 +195,6 @@ collections:
 
 # Defaults
 defaults:
-  # _posts
-  - scope:
-      path: ""
-      type: posts
-    values:
-      layout: single
-      author_profile: true
-      read_time: true
-      comments: true
-      share: true
-      related: true
   # _pages
   - scope:
       path: ""
@@ -220,8 +209,8 @@ defaults:
     values:
       layout: single
       author_profile: true
-      share: true
-      comments: true
+      share: false
+      comments: false
   # _publications
   - scope:
       path: ""
@@ -231,24 +220,36 @@ defaults:
       author_profile: true
       share: true
       comments: true
-  # _work_exp
+  # _portfolio
   - scope:
       path: ""
-      type: work_exp
+      type: portfolio
     values:
       layout: single
       author_profile: true
-      share: true
-      comments: true
-  # # _portfolio
+      share: false
+      comment: false
+  # # _work_exp
   # - scope:
   #     path: ""
-  #     type: portfolio
+  #     type: work_exp
   #   values:
   #     layout: single
   #     author_profile: true
   #     share: true
-  #     comment: true
+  #     comments: true
+  # # _posts
+  # - scope:
+  #     path: ""
+  #     type: posts
+  #   values:
+  #     layout: single
+  #     author_profile: true
+  #     read_time: true
+  #     comments: true
+  #     share: true
+  #     related: true
+
   # # _talks
   # - scope:
   #     path: ""
