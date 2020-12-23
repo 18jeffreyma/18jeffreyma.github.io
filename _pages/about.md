@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I'm currently a undergraduate at the California Institute of Technology
+I'm currently a undergraduate at the [California Institute of Technology (Caltech)](https://www.caltech.edu/)
 studying Computer Science and BEM (Business, Economics, and Management).
 
 Interests
@@ -44,10 +44,16 @@ I've also previously interned at Google Brain as a Software Engineering Intern o
 [TensorFlow Extended](https://www.tensorflow.org/tfx) team, working on an
 end-to-end platform to automatically train and deploy ML models in production.
 
-This coming Spring, I will be working as a Software Engineering Intern at
-[Nuro](https://nuro.ai/about), and this coming Summer, I'll be interning at
+This coming Spring 2021, I will be working as a Software Engineering Intern at
+[Nuro](https://nuro.ai/about), and this coming Summer 2021, I'll be interning at
 [Citadel](https://www.citadel.com/about-citadel/) also as a Software Engineering
 Intern.
+
+Other Interests
+------
+In addition to my academic and teaching commitments, I'm also a NCAA Division 3 collegiate
+student athlete, and have placed as a finalist four times at the
+[Southern California Intercollegiate Athletics Conference (SCIAC)](https://www.thesciac.org/landing/index) Championships.
 
 Contact Info
 ------
