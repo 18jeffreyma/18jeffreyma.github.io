@@ -53,7 +53,7 @@ Other Interests
 ------
 In addition to my academic and teaching commitments, I'm also a NCAA Division 3 collegiate
 student athlete, and have placed as a finalist four times at the
-[Southern California Intercollegiate Athletics Conference (SCIAC)](https://www.thesciac.org/landing/index) Championships.
+[Southern California Intercollegiate Athletics Conference (SCIAC)](https://www.thesciac.org/landing/index) Swimming Championships.
 
 Contact Info
 ------
