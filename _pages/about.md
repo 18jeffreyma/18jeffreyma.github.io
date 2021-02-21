@@ -17,23 +17,24 @@ I'm generally interested in machine learning, computer vision, and network
 design. I specifically enjoy studying how computer science intersects with
 other fields, whether it be medical imaging or game theory, and I'm always
 excited to work on projects that combine aspects from multiple disciplines.
+You can find my CV [here]
 
 Research
 ------
-Currently, I'm working with [Anima Anandkumar](http://tensorlab.cms.caltech.edu/users/anima/),
-[Yuanyuan Shi](http://shiyuanyuan.site/), and [Florian Schafer](https://f-t-s.github.io/) to
+Currently, I'm working with [Prof. Anima Anandkumar](http://tensorlab.cms.caltech.edu/users/anima/),
+[Dr. Yuanyuan Shi](http://shiyuanyuan.site/), and [Florian Schafer](https://f-t-s.github.io/) to
 extend the two player Competitive Gradient Descent and Competitive Mirror Descent
 algorithms to a multi-agent, reinforcement learning setting.
 
 Previously, I've worked at the [Magnetic Resonance Systems Research Laboratory](https://mrsrl.sites.stanford.edu/)
-at Stanford University under [Shreyas Vasanawala](https://profiles.stanford.edu/shreyas-vasanawala) and
-[Ukash Nakarmi](https://www.linkedin.com/in/ukashnakarmi), working on the
+at Stanford University under [Prof. Shreyas Vasanawala](https://profiles.stanford.edu/shreyas-vasanawala) and
+[Prof. Ukash Nakarmi](https://www.linkedin.com/in/ukashnakarmi), working on the
 development of a deep-learning framework to detect motion artifacting in
 pediatric MRI and provide data informed suggestions to MR technicians.
 
 I've also worked at [The Wall Lab](https://wall-lab.stanford.edu/) at Stanford University,
-under [Dennis Wall](https://profiles.stanford.edu/dennis-wall) and
-[Nick Haber](https://ed.stanford.edu/faculty/nhaber) on developing a
+under [Prof. Dennis Wall](https://profiles.stanford.edu/dennis-wall) and
+[Prof. Nick Haber](https://ed.stanford.edu/faculty/nhaber) on developing a
 machine-learning classifier for the diagnosis of Autism Spectrum Disorder
 based on a patient’s accuracy in emotional recognition and level of facial engagement.
 
