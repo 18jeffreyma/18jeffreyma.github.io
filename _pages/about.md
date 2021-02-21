@@ -17,7 +17,7 @@ I'm generally interested in machine learning, computer vision, and network
 design. I specifically enjoy studying how computer science intersects with
 other fields, whether it be medical imaging or game theory, and I'm always
 excited to work on projects that combine aspects from multiple disciplines.
-You can find my CV [here]
+You can find my CV [here](http://18jeffreyma.github.io/files/JeffreyMa_CV.pdf).
 
 Research
 ------
